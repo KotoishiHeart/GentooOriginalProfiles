@@ -1,4 +1,8 @@
 amd64 default/linux/amd64/17.1/no-multilib/desktop/plasma/systemd/merged-usr stable
 amd64 default/linux/amd64/17.1/no-multilib/desktop/plasma/systemd/selinux/merged-usr stable
+amd64 default/linux/amd64/17.1/no-multilib/desktop/gnome/systemd/merged-usr stable
+amd64 default/linux/amd64/17.1/no-multilib/desktop/gnome/systemd/selinux/merged-usr stable
 amd64 default/linux/amd64/17.1/no-multilib/hardened/desktop/plasma/systemd/merged-usr stable
 amd64 default/linux/amd64/17.1/no-multilib/hardened/desktop/plasma/systemd/selinux/merged-usr stable
+amd64 default/linux/amd64/17.1/no-multilib/hardened/desktop/gnome/systemd/merged-usr stable
+amd64 default/linux/amd64/17.1/no-multilib/hardened/desktop/gnome/systemd/selinux/merged-usr stable
