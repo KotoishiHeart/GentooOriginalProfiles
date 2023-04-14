@@ -8,3 +8,5 @@ amd64 default/linux/amd64/17.1/no-multilib/hardened/desktop/gnome/systemd/merged
 amd64 default/linux/amd64/17.1/no-multilib/hardened/desktop/gnome/systemd/selinux/merged-usr stable
 amd64 default/linux/amd64/17.1/no-multilib/desktop/plasma stable
 amd64 default/linux/amd64/17.1/no-multilib/desktop/gnome stable
+amd64 default/linux/amd64/17.1/no-multilib/hardened/desktop/plasma stable
+amd64 default/linux/amd64/17.1/no-multilib/hardened/desktop/gnome stable
